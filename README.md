@@ -7,5 +7,3 @@ Module : Order Details
 -customer_id : Customer
 -paymentMode : String
 -shop_id : Shop
-
-
